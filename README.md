@@ -49,9 +49,6 @@ Here are some example outputs from the drone detection system:
 
 ### Webcam Detection Example
 - **Description**: An example of drone detection using a webcam.
-- **Output**:
-  
-![image](https://github.com/user-attachments/assets/b811b517-448b-4e8a-8e20-19db9e5de319)
 
 ### Video Detection Example
 - **Description**: An example of drone detection on a pre-recorded video.
@@ -138,9 +135,6 @@ If you have any questions or feedback, feel free to reach out:
 
   ![napkin-selection (6)](https://github.com/user-attachments/assets/41b79c2a-8d7d-488e-aa08-bd89195e90e4)
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
